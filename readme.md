@@ -6,4 +6,5 @@ In this website you can keep track of the work of our students:
 * [Alex Wu](https://odmkm.github.io/HECZ_2018134/)
 
 Please visit Fablab O website for more info
+
 ![Fablab O logo](http://fabacademy.org/2019/labs/oshanghai/images/fablabsio-image.jpg)
