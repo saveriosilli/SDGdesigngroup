@@ -1,20 +1,9 @@
 # FABO DESIGN GROUP (this is a big title)
-This is a simple paragraph. Welcome to read my website
+In this website you can keep track of the work of our students:
 
-## This is a smaller title
-### Even smaller
-#### very small
-##### tiny tiny
-###### supersmall
+* [Wang Shichuan](https://wangshichuan.github.io/Project-ReuseWaterAtHome/)
+* [Jack Luan](https://jddwx.github.io/123456/)
+* [Alex Wu](https://odmkm.github.io/HECZ_2018134/)
 
-Another paragraph. Let's make a list
-* first element
-* second element
-* third element
-
-
-[a link to some website](www.baidu.com)
-
-this is an image (add the exclamation mark)
-
-![this is an image of some bottles](https://d33wubrfki0l68.cloudfront.net/001f154a79a615200024a0b8aa9f9e558a7d4a37/53740/img/portfolio-image-ce.jpg)
+Please visit Fablab O website for more info
+![Fablab O logo](http://fabacademy.org/2019/labs/oshanghai/images/fablabsio-image.jpg)
